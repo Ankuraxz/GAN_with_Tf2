@@ -1,5 +1,11 @@
 # GAN_with_Tf2
 NOTE: Either Run in Google Collab (With GPU), or download the repos
+
+## RESULTS
+![picture alt](images/img89.png "_")
+ 
+
+
 ![picture alt](images/img1.png "_")
  
 Generative modelling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset.
