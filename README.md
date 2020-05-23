@@ -33,3 +33,7 @@ It may be this fact above others, the ability to visually assess the quality of 
 
 
 ![picture alt](images/img10.png "_")
+
+
+## Future research
+- Use of GAN for Facial Recognition in addition to Data Aug.
